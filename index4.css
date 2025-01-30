@@ -38,7 +38,7 @@ button {
     border-radius: 5px;
     color: #fff;
     font-weight: bold;
-    margin-top: 10rem;
+    margin-top: 7rem;
 }
 
 button a:hover{
@@ -48,7 +48,7 @@ button a:hover{
 @media screen  {
     form{
         max-width: 1800px;
-        width: 406, 650;
+        width: 406px;
         display: block;
         align-items: center;
     }
